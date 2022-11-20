@@ -1,1 +1,1 @@
-# ButtonRipple
+HTML Button with ripple effect.
